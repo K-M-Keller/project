@@ -13,3 +13,5 @@ while (power !== 0 && !power) {
   prompt("What is the amount for power");
 }
 console.log(power);
+
+console.log(bill.home + bill.car + power);
